@@ -37,4 +37,5 @@ class Lesson {
     }
 
 }
+
 module.exports = Lesson;
