@@ -6,7 +6,7 @@ class Student extends Person {
             super(studentName, "Student")
 
         } else {
-            throw new ReferenceError("Invalid Arguments")
+            throw new Error("enter a valid student name")
         }
 
     }

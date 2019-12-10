@@ -4,7 +4,7 @@ class Person {
             this.name = name;
             this.title = title;
         } else {
-            throw new ReferenceError("Invalid Arguments")
+            throw new Error("Enter a valid name and Title")
 
         }
     }

@@ -13,6 +13,6 @@ const student6 = new Student(`Bob`)
 let mathTeacher = new Teacher("Maths", "Sam");
 let Mathlesson = new Lesson(mathTeacher, [student1, student2, student3, student4, student5, student6]);
 
-Mathlesson.markOnTime([student1, student2, student3]);
-Mathlesson.markLate([student5, student6]);
+Mathlesson.markOnTime([student1, student2, student5]);
+Mathlesson.markLate([student3, student6]);
 Mathlesson.outputSummary();

@@ -9,7 +9,7 @@ class Teacher extends Person {
 
 
         } else {
-            throw new ReferenceError("Invalid Arguments")
+            throw new Error("Enter a valid subject and name")
 
         }
     }
