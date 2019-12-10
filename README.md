@@ -6,4 +6,5 @@
   * Run index.js on node ,  an outputSummary method will output the subject, teacher who conducted the lesson and
       the respective students' attendance
     
+    https://github.com/NeerajaDjea/Student-Register/issues/2#issue-535593938
     
