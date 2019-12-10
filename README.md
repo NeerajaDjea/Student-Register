@@ -6,4 +6,4 @@
   * Run index.js on node ,  an outputSummary method will output the subject, teacher who conducted the lesson and
       the respective students' attendance
     
-  ![screenshot](Image2.png)
+ ![screenshot](image2.png)
